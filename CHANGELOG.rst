@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2021-04-27)
+------------------
+* Changed the build type to ament_python and fixed package to run with ros2 run (`#4 <https://github.com/ros-visualization/rqt_srv/issues/4>`_)
+* Contributors: Alejandro Hernández Cordero
+
 1.0.1 (2018-12-12)
 ------------------
 * Fixing CMakeLists.txt (`#3 <https://github.com/ros-visualization/rqt_srv/issues/3>`_)
