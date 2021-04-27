@@ -1,3 +1,26 @@
+## rqt_srv (foxy) - 1.0.2-1
+
+The packages in the `rqt_srv` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --rosdistro foxy rqt_srv` on `Tue, 27 Apr 2021 14:25:47 -0000`
+
+The `rqt_srv` package was released.
+
+Version of package(s) in repository `rqt_srv`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_srv.git
+- release repository: https://github.com/ros2-gbp/rqt_srv-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-1`
+- new version: `1.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rqt_srv (galactic) - 1.0.2-1
 
 The packages in the `rqt_srv` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --rosdistro galactic rqt_srv` on `Tue, 27 Apr 2021 14:24:09 -0000`
