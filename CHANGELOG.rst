@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.3 (2021-08-31)
+------------------
+* Fix modern setuptools warning about dashes instead of underscores (`#7 <https://github.com/ros-visualization/rqt_srv/issues/7>`_)
+* Contributors: Chris Lalancette
+
 1.0.2 (2021-04-27)
 ------------------
 * Changed the build type to ament_python and fixed package to run with ros2 run (`#4 <https://github.com/ros-visualization/rqt_srv/issues/4>`_)
