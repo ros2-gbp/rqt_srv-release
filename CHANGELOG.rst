@@ -2,6 +2,9 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2022-05-10)
+------------------
+
 1.0.3 (2021-08-31)
 ------------------
 * Fix modern setuptools warning about dashes instead of underscores (`#7 <https://github.com/ros-visualization/rqt_srv/issues/7>`_)
