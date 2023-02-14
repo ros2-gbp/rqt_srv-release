@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.1 (2023-02-14)
+------------------
+* [rolling] Update maintainers - 2022-11-07 (`#10 <https://github.com/ros-visualization/rqt_srv/issues/10>`_)
+* Contributors: Audrow Nash, Jacob Perron
+
 1.1.0 (2022-05-10)
 ------------------
 
