@@ -1,12 +1,11 @@
 <package format="2">
   <name>rqt_srv</name>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
   <description>A Python GUI plugin for introspecting available ROS message types.
   Note that the srvs available through this plugin is the ones that are stored
   on your machine, not on the ROS core your rqt instance connects to.</description>
-  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
-  <maintainer email="ablasdel@gmail.com">Aaron Blasdel</maintainer>
-  <maintainer email="mikeblautman@gmail.com">Michael Lautman</maintainer>
+
+  <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
 
   <license>BSD</license>
 
@@ -15,6 +14,8 @@
   <url type="bugtracker">https://github.com/ros-visualization/rqt_srv/issues</url>
 
   <author>Aaron Blasdel</author>
+  <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
+  <author email="mikeblautman@gmail.com">Michael Lautman</author>
 
   <exec_depend>rclpy</exec_depend>
   <exec_depend>rqt_gui</exec_depend>
