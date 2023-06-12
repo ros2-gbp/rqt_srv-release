@@ -4,7 +4,7 @@ package_name = 'rqt_srv'
 
 setup(
     name=package_name,
-    version='1.2.0',
+    version='1.2.1',
     packages=[package_name],
     package_dir={'': 'src'},
     data_files=[
@@ -26,11 +26,10 @@ setup(
         'Topic :: Software Development',
     ],
     description=(
-        'A Python GUI plugin for introspecting available ROS message types. ' +
-        'Note that the srvs available through this plugin is the ones that are stored ' +
-        'on your machine, not on the ROS core your rqt instance connects to.'
+        'A Python GUI plugin for introspecting available ROS service types. '
     ),
     license='BSD',
+    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
             'rqt_srv = ' + package_name + '.main:main',
