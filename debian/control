@@ -1,0 +1,12 @@
+Source: ros-jazzy-rqt-srv
+Section: misc
+Priority: optional
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), python3-ament-flake8 <!nocheck>, python3-ament-xmllint <!nocheck>, python3-pytest <!nocheck>, ros-jazzy-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: http://wiki.ros.org/rqt_srv
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-rqt-srv
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-jazzy-rqt-gui, ros-jazzy-rqt-gui-py, ros-jazzy-rqt-msg, ros-jazzy-ros-workspace
+Description: A Python GUI plugin for introspecting available ROS service types.
