@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.0 (2025-04-28)
+------------------
+* Remove CODEOWNERS (`#13 <https://github.com/ros-visualization/rqt_srv/issues/13>`_)
+* Contributors: Alejandro Hernández Cordero
+
 1.3.0 (2024-04-26)
 ------------------
 
