@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.4.1 (2025-07-30)
+------------------
+* fix setuptools deprecations (`#16 <https://github.com/ros-visualization/rqt_srv/issues/16>`_)
+* Contributors: mosfet80
+
 1.4.0 (2025-04-28)
 ------------------
 * Remove CODEOWNERS (`#13 <https://github.com/ros-visualization/rqt_srv/issues/13>`_)
