@@ -2,18 +2,16 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.4.1 (2025-07-30)
+1.2.3 (2026-01-21)
 ------------------
-* fix setuptools deprecations (`#16 <https://github.com/ros-visualization/rqt_srv/issues/16>`_)
-* Contributors: mosfet80
-
-1.4.0 (2025-04-28)
-------------------
-* Remove CODEOWNERS (`#13 <https://github.com/ros-visualization/rqt_srv/issues/13>`_)
-* Contributors: Alejandro Hernández Cordero
-
-1.3.0 (2024-04-26)
-------------------
+* fix setuptools deprecations (backport `#16 <https://github.com/ros-visualization/rqt_srv/issues/16>`_) (`#18 <https://github.com/ros-visualization/rqt_srv/issues/18>`_)
+  fix setuptools deprecations (`#16 <https://github.com/ros-visualization/rqt_srv/issues/16>`_)
+  (cherry picked from commit 3b7e0672e5c710689995102ec08c2a2921fcedbc)
+  Co-authored-by: mosfet80 <10235105+mosfet80@users.noreply.github.com>
+* Remove CODEOWNERS (backport `#13 <https://github.com/ros-visualization/rqt_srv/issues/13>`_) (`#14 <https://github.com/ros-visualization/rqt_srv/issues/14>`_)
+  <hr>This is an automatic backport of pull request `#13 <https://github.com/ros-visualization/rqt_srv/issues/13>`_ done by
+  [Mergify](https://mergify.com).
+* Contributors: mergify[bot]
 
 1.2.2 (2024-02-07)
 ------------------
