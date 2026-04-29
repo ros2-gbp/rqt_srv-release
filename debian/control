@@ -1,0 +1,12 @@
+Source: ros-lyrical-rqt-srv
+Section: misc
+Priority: optional
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-lyrical-ament-flake8 <!nocheck>, ros-lyrical-ament-xmllint <!nocheck>, ros-lyrical-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: http://wiki.ros.org/rqt_srv
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-rqt-srv
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-lyrical-rqt-gui, ros-lyrical-rqt-gui-py, ros-lyrical-rqt-msg, ros-lyrical-ros-workspace
+Description: A Python GUI plugin for introspecting available ROS service types.
