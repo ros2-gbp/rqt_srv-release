@@ -2,6 +2,11 @@
 Changelog for package rqt_srv
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.1 (2026-10-22)
+------------------
+* Added missing deps and python3 improvements (`#20 <https://github.com/ros-visualization/rqt_srv/issues/20>`_)
+* Contributors: Alejandro Hernández Cordero
+
 2.0.0 (2026-05-06)
 ------------------
 
